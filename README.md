@@ -1,7 +1,10 @@
-# Monthly-Spending-Data-Set
-Data analysis project using Kaggle dataset
+<b> Monthly Spending
 
-This project analyzes monthly spending in India from Kaggle.
--Cleaned with data pandas
--Created visualizations
+<b> Data analysis project using Kaggle dataset
+
+-<b> This project analyzes monthly spending in India from Kaggle.
+
+-<b> Cleaned with data pandas
+
+-<b> Created visualizations
 
