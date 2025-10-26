@@ -1,18 +1,14 @@
-<h1>Customer Shopping</h1>
+<h1>Simple Monthly Spending </h1>
 
 <b> Data analysis project using Kaggle dataset:</b>
 
-- This dataset contains information about customer shopping patterns, including demographics, purchase history, and buying behavior.
+- This dataset contains information about monthly spending patterns, including investments and income.
 
 - Created visualizations
 
 <h2>Use cases</h2>
 
--Customer segmentation and profiling
-
--Shopping behavior analysis
-
--Predictive modeling (e.g., purchase amount or frequency)
+-Predictive modeling (e.g., investment return over 12 month period)
 
 -Building recommendation systems
 
